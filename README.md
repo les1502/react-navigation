@@ -4,6 +4,16 @@
 
 React Navigation is born from the React Native community's need for an extensible yet easy-to-use navigation solution based on Javascript.
 
+# Use Case
+- 
+  
+# Effect Picture
+  - tab页跳转效果
+  
+<a><img width="200" src="./tab1.jpg"></a>
+<a><img width="200" src="./tab2.jpg"></a>
+<a><img width="200" src="./tab3.jpg"></a>
+
 ## Installation
 
 Since the library is a JS-based solution, to install the latest version of react-navigation you only need to run:
