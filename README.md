@@ -10,8 +10,8 @@ React Navigation is born from the React Native community's need for an extensibl
 # Effect Picture
   - 页面之间跳转效果
   
-<a><img width="200" src="./tab1.jpg"></a>
-<a><img width="200" src="./tab2.jpg"></a>
+<a><img width="200" src="./navigation1.png"></a>
+<a><img width="200" src="./navigation2.png"></a>
 
 
 ## Installation
