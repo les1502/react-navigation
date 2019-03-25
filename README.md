@@ -12,7 +12,7 @@ React Navigation is born from the React Native community's need for an extensibl
   
 <a><img width="200" src="./tab1.jpg"></a>
 <a><img width="200" src="./tab2.jpg"></a>
-<a><img width="200" src="./tab3.jpg"></a>
+
 
 ## Installation
 
