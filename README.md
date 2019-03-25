@@ -5,7 +5,7 @@
 React Navigation is born from the React Native community's need for an extensible yet easy-to-use navigation solution based on Javascript.
 
 # Use Case
-- 
+- tab页跳转
   
 # Effect Picture
   - tab页跳转效果
